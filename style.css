@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Global */
+
+body {
+    margin: 100px;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: #949494;
+}
+
+/* Page */
+
+.title-container {
+    display: flex;
+    height: calc(20vh - 20px);
+    justify-content: center;
+    align-items: center;
+}
+
+/* Responsiveness */
+
+@media (max-width: 700px) {
+    
+    body {
+        margin: 20px;
+    }
+
+}
