@@ -9,13 +9,12 @@ A lightweight library allowing to easily integrate a carousel to a PHP project. 
 
 The creation of a carousel is simplified by the signature of the object.
 
-The options of the carousel are the following:
+**The options of the carousel are the following:**
 - slidesVisible : how many slides are visible inside the carousel viewport?
 - slidesToScroll : how many slides should be scrolled when the user clicks on left or right arrows?
 - infiniteScroll : should we go back to slide 1 when the last slide has been reached?
 
-Here is how to create a new carousel:
-
+**Here is how to create a new carousel:**
 ```php
 require 'src/Carousel.php';
 
