@@ -14,7 +14,7 @@ The options of the carousel are the following:
 
 Here is how to create a new carousel:
 
-`php`
+```php
 require 'src/Carousel.php';
 
 $carousel = new Carousel(
@@ -39,4 +39,4 @@ $carousel = new Carousel(
 );
 
 $carousel->show();
-`php`
+```
