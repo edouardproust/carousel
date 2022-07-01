@@ -1,4 +1,4 @@
-# carousel
+# easy arousel
 
 A lightweight library allowing to easily integrate a carousel to a PHP project. It uses javascript without framework.
 
