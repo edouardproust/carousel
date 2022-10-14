@@ -5,7 +5,6 @@ A lightweight library allowing to easily integrate a carousel to a PHP project. 
 👉 [**Live demo**](http://phpstack-856558-2958244.cloudwaysapps.com/)
 
 ![image](https://user-images.githubusercontent.com/45925914/176817156-0a8c9f76-611b-49cb-a5db-33effb0045dd.png)
-![image](https://user-images.githubusercontent.com/45925914/176817142-3a8b020b-8c06-4f4d-9bb6-311b32631006.png)
 
 The creation of a carousel is simplified by the signature of the object.
 
